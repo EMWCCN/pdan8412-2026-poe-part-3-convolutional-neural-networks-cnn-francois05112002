@@ -1,0 +1,8 @@
+{
+  "model": "fingerprint_maker_v2.keras",
+  "threshold": 0.76,
+  "enrol_photos": 10,
+  "door_photos": 3,
+  "max_strangers_in": 0.01,
+  "chosen_on": "validation newcomers"
+}

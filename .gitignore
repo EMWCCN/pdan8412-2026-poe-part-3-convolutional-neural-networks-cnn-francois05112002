@@ -1,0 +1,13 @@
+# The dataset photos - the notebook downloads them with kagglehub
+data/pins
+
+# Local cache, model backups and the written reports (not part of the code)
+cache/
+models_backup/
+reports/
+
+# Jupyter / Python / Windows clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*:Zone.Identifier
