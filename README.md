@@ -190,5 +190,7 @@ Open `FaceCheck.ipynb`, select the environment's kernel, and run all cells from 
 - Most stranger mistakes came from one look-alike pair, and side-profile photos score lowest, so a real door should ask visitors to look at the camera.
 
 ---
+> **If GitHub can't display the notebook** ("Unable to render code block"), click the **download** button on the notebook's page and open it in VS Code or Jupyter. All outputs are saved in the file, so it can be read without running anything.
+---
 
 **Author:** Louis Francois Fourie · ST10152431 · PDAN8412 Programming in Data Analytics 2
